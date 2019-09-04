@@ -1,0 +1,36 @@
+/*Selector {
+    Property: value;
+}*/
+h1{
+	font-size: 30px;
+	font-family: fantasy;
+	border-right: 5px solid red;
+	border-bottom: 5px solid black;
+	width: 400px;
+	text-align: center;
+	box-shadow: 5px 6px 5px 6px;
+	transition: all 1s;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+body{
+	background-image: url(shopping2.jpg);
+	background-size: cover;
+}
+.clear{
+	width: 20px;
+	margin: 0 auto;
+	height: 20px;
+	border-radius: 4px 5px 4px 5px;
+	margin-bottom: 5px;
+}
+.button{
+	font-size: 60px;
+	font-family: fantasy;	
+	color: green;
+	background-color: blue;
+	border-right: 1px;
+	border-left: 1px;
+	border-top: 1px;
+	border-bottom: 1px;
+}
